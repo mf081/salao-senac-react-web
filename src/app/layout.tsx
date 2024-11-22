@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import Head from "next/head"; // Importando o componente Head
 import "./globals.css";
-import { Header } from "@/components/Header/header";
-import { Footer } from "@/components/Footer/footer";
-import { Nav } from "@/components/Nav/nav";
+import { Header } from "@/components/Layout/Header/header";
+import { Footer } from "@/components/Layout/Footer/footer";
+import { Nav } from "@/components/Layout/Nav/nav";
 
 // Fontes locais
 // const geistSans = localFont({

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import "./services.css";
+import "./catalog.css";
 
 export function ServicesSection() {  // Renomeando para PascalCase
     return (
